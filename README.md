@@ -19,7 +19,7 @@
 - **👤 Author:** y3chnx
 - **📄 License:** MIT
 - **📂 Repository:** [https://github.com/y3chnx/clave](https://github.com/y3chnx/clave)
-- **🏷️ Project Type:** Large Language Model
+- **🏷️ Project Type:** Small Language Model
 
 <div align="center">
 _________________________________<br>
