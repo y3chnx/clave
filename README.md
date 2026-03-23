@@ -1,6 +1,6 @@
 <img src="banner.png">
 
-> The open source Large Language Model assistance
+> The open source Small Language Model assistance
 
 ![License](https://img.shields.io/badge/license-MIT-green) ![Language](https://img.shields.io/badge/language-Python-yellow) ![Framework](https://img.shields.io/badge/framework-Pytorch-orange) ![GitHub](https://img.shields.io/badge/GitHub-y3chnx/clave-black?logo=github)
 
