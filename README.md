@@ -146,7 +146,7 @@ Step 10000 | Loss: 1.0923 | LR: 1.79e-05<br>
 
 For the accuracy test, I used [accuracy.py](accuracy.py) to measure the accuracy rate. <br>
 <br>
-The final accuracy for my model was 0.03773584905660377%. 
+The final accuracy for my model was about 4%. 
 <br>
 <br>
 Here is the log for the accuracy test: <br>
