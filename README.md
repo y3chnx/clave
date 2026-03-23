@@ -148,8 +148,7 @@ Step 10000 | Loss: 1.0923 | LR: 1.79e-05<br>
 - Go to the folder called [clave_cli] and make [models] folder inside. 
 - When you are done with that, put your model file(clave_f16.gguf) inside the [models] folder.
 - Finally, install all the dependencies and run [main.py]. You can use the command to run:
-``` python main.py
-```
+``` python main.py```
 
 ## Usage
 
@@ -169,7 +168,7 @@ llama-cpp-python
 
 ## SFT Training Guide
 
-If you want to try SFT training as I did, you can run three Python files in your virtual computer (Google Collab or Kaggle; I used Kaggle Notebook). 
+If you want to try SFT training as I did, you can run my three Python files in your virtual computer (Google Collab or Kaggle; I used Kaggle Notebook). 
 <Br>You need to run in this order:
 <br> <div align="center">
 [Setting.py](setting.py)
@@ -181,4 +180,3 @@ If you want to try SFT training as I did, you can run three Python files in your
 There might be missing information(private information) that you need to fill out on the code. (You need a Hugging Face Token to do this job.)
 <br>
 <Br> <div align="center">
-***Good Luck!!*** 🤞
