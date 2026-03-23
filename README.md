@@ -6,28 +6,30 @@
 
 ## 📋 Table of Contents
 
-- [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Requirements](#requirements)
-- [Examples](#examples)
+- Features
+- Installation
+- Usage
+- Requirements
+- SFT training Guide
 
 ## ℹ️ Project Information
 
 - **👤 Author:** y3chnx
 - **📄 License:** MIT
 - **📂 Repository:** [https://github.com/y3chnx/clave](https://github.com/y3chnx/clave)
-- **🏷️ Keywords:** Large Language Model
+- **🏷️ Project Type:** Large Language Model
 
+<div align="center">
+_________________________________<br>
+⚠️WARNING⚠️
+<br>
+Since Clave is a very small model and made by a single developer, the information that it gives can not be accurate. <br>
+_________________________________
+<div align="left">
+  
 ## Features
 
 Clave can Assist users in any ways!! It can speak, write, code, entertain, etc.
-<div align="center">
-⚠️WARNING⚠️
-<br>
-Since Clave is a very small model and made by a single developer, the information that it gives can not be accurate. 
-
-<div align="left">
 
 ## Installation
 
@@ -48,24 +50,25 @@ You can talk with it:
 You can make it write something:
 <br> <img src="write.png">
 <br>
+<br>
 You can make it code:
 <br> <img src="code.png">
 
 ## Requirements
 
-Python 3.11 or Higher
+Python 3.11 or Higher <br>
 llama-cpp-python
 
-## Examples
+## SFT Training Guide
 
 If you want to try SFT training as I did, you can run three Python files in your virtual computer (Google Collab or Kaggle; I used Kaggle Notebook). 
 <Br>You need to run in this order:
 <br> <div align="center">
-Setting.py
+[Setting.py](setting.py)
 <br>⬇️<br>
-sft.py
+[sft.py](sft.py)
 <br>⬇️<br>
-export.py
+[export.py](export.py)
 <br> <div align="left">
 There might be missing information(private information) that you need to fill out on the code. (You need a Hugging Face Token to do this job.)
 <br>
