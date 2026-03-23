@@ -8,11 +8,11 @@
 
 - Features
 - Model Informations
-- Model Evaluation 
+- Model Evaluation
+- Requirements
 - Installation
 - Usage
-- Requirements
-- SFT training Guide
+- SFT Training Guide
 
 ## ℹ️ Project Information
 
@@ -735,6 +735,11 @@ Final Accuracy: 0.03773584905660377
 This is the accuracy comparison to other models:
 <img src="accuracy.png">
 
+## Requirements
+
+Python 3.11 or Higher <br>
+llama-cpp-python
+
 
 ## Installation
 
@@ -757,10 +762,6 @@ You can make it write something:
 <br>You can make it code:
 <br> <img src="code.png">
 
-## Requirements
-
-Python 3.11 or Higher <br>
-llama-cpp-python
 
 ## SFT Training Guide
 
