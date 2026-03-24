@@ -774,6 +774,7 @@ If you want to try SFT training as I did, you can run my three Python files in y
 <br>⬇️<br>
 [export.py](export.py)
 <br> <div align="left">
-There might be missing information(private information) that you need to fill out on the code. (You need a Hugging Face Token to do this job.)
+<br>
+There might be missing information(private information) that you need to fill out on the code. (You might need a Hugging Face Token to do this job.)
 <br>
 <Br> <div align="center">
